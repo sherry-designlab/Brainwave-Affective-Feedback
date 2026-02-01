@@ -19,7 +19,7 @@ To run this code, you need:
 ## 🚀 How to Run
 
 1.  Download this repository.
-2.  Put MUSE 2 EEG headset
+2.  Put on MUSE 2 EEG headset
 3.  Bluetooth -> Open Mindmonitor -> Connect
 5.  Ensure your Muse 2 headband is streaming OSC data to port `8000` (e.g., using Mind Monitor or Muse Direct).
 6.  Open `BrainwaveBoidsTimeVisualization.pde` in Processing.
