@@ -12,8 +12,9 @@ This is a generative art project created with **Processing**. It uses EEG data f
 
 To run this code, you need:
 1.  **Processing IDE** (Java mode).
-2.  **oscP5** library (Install via Sketch -> Import Library -> Add Library -> search for "oscP5").
-3.  **Muse Headband** (or an OSC simulator).
+2.  **oscP5** library (Install via "Sketch" -> "Import Library" -> "Add Library" -> search for "oscP5").
+3.  **Muse 2 EEG Headband** (or an OSC simulator).
+4.  **Mind Monitor** (Application)
 
 ## 🚀 How to Run
 
